@@ -2,5 +2,4 @@
 
 hello 
 hii man
-hiii //./././././././.
-boiio f kvmri
+
